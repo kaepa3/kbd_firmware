@@ -6,3 +6,6 @@
 
 // Define the number of layers
 #define LAYER_STATE_16BIT
+
+#undef DYNAMIC_KEYMAP_LAYER_COUNT
+#define DYNAMIC_KEYMAP_LAYER_COUNT 16
